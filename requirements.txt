@@ -1,0 +1,6 @@
+streamlit>=1.36
+omnivoice
+soundfile
+numpy
+torch
+torchaudio
